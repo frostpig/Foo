@@ -12,14 +12,12 @@ public class F {
 		
 		@Override
 		public java.util.Date parse(String source, ParsePosition pos) {
-			// TODO Auto-generated method stub
 			return null;
 		}
 		
 		@Override
 		public StringBuffer format(java.util.Date date, StringBuffer toAppendTo,
 				FieldPosition fieldPosition) {
-			// TODO Auto-generated method stub
 			return null;
 		}
 	};
